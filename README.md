@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning (React.js, Typescript, sass)<br>
-🔭 In the near future, I'm willing to learn (tailwind, Angular, UI design)<br>
+🔭 In the near future, I'm willing to learn (tailwind, Angular, UI design, Redux)<br>
 
 
 ## 🌐 Socials:
